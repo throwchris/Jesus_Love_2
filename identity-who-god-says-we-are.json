@@ -1,0 +1,368 @@
+[
+  {
+    "ref": "Matthew 5:43",
+    "segments": [
+      {
+        "text": "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 5:44",
+    "segments": [
+      {
+        "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 5:46",
+    "segments": [
+      {
+        "text": "For if ye love them which love you, what reward have ye? do not even the publicans the same?",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 6:5",
+    "segments": [
+      {
+        "text": "And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 6:24",
+    "segments": [
+      {
+        "text": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 19:19",
+    "segments": [
+      {
+        "text": "Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 22:37",
+    "segments": [
+      {
+        "text": "Jesus said unto him, ",
+        "red": false
+      },
+      {
+        "text": "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 22:39",
+    "segments": [
+      {
+        "text": "And the second is like unto it, Thou shalt love thy neighbour as thyself.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 23:6",
+    "segments": [
+      {
+        "text": "And love the uppermost rooms at feasts, and the chief seats in the synagogues,",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Matthew 24:12",
+    "segments": [
+      {
+        "text": "And because iniquity shall abound, the love of many shall wax cold.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Mark 12:30",
+    "segments": [
+      {
+        "text": "And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Mark 12:31",
+    "segments": [
+      {
+        "text": "And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Mark 12:38",
+    "segments": [
+      {
+        "text": "And he said unto them in his doctrine, ",
+        "red": false
+      },
+      {
+        "text": "Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 6:27",
+    "segments": [
+      {
+        "text": "But I say unto you which hear, Love your enemies, do good to them which hate you,",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 6:32",
+    "segments": [
+      {
+        "text": "For if ye love them which love you, what thank have ye? for sinners also love those that love them.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 6:35",
+    "segments": [
+      {
+        "text": "But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 7:42",
+    "segments": [
+      {
+        "text": "And when they had nothing to pay, he frankly forgave them both. ",
+        "red": true
+      },
+      {
+        "text": "Tell me therefore, which of them will love him most?",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 10:27",
+    "segments": [
+      {
+        "text": "And he answering said, ",
+        "red": false
+      },
+      {
+        "text": "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 11:42",
+    "segments": [
+      {
+        "text": "But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 11:43",
+    "segments": [
+      {
+        "text": "Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 16:13",
+    "segments": [
+      {
+        "text": "No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "Luke 20:46",
+    "segments": [
+      {
+        "text": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 5:42",
+    "segments": [
+      {
+        "text": "But I know you, that ye have not the love of God in you.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 8:42",
+    "segments": [
+      {
+        "text": "Jesus said unto them, ",
+        "red": false
+      },
+      {
+        "text": "If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 10:17",
+    "segments": [
+      {
+        "text": "Therefore doth my Father love me, because I lay down my life, that I might take it again.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 13:34",
+    "segments": [
+      {
+        "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 13:35",
+    "segments": [
+      {
+        "text": "By this shall all men know that ye are my disciples, if ye have love one to another.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 14:15",
+    "segments": [
+      {
+        "text": "If ye love me, keep my commandments.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 14:21",
+    "segments": [
+      {
+        "text": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 14:23",
+    "segments": [
+      {
+        "text": "Jesus answered and said unto him, ",
+        "red": false
+      },
+      {
+        "text": "If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 14:31",
+    "segments": [
+      {
+        "text": "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 15:9",
+    "segments": [
+      {
+        "text": "As the Father hath loved me, so have I loved you: continue ye in my love.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 15:10",
+    "segments": [
+      {
+        "text": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 15:12",
+    "segments": [
+      {
+        "text": "This is my commandment, That ye love one another, as I have loved you.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 15:13",
+    "segments": [
+      {
+        "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 15:17",
+    "segments": [
+      {
+        "text": "These things I command you, that ye love one another.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 15:19",
+    "segments": [
+      {
+        "text": "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.",
+        "red": true
+      }
+    ]
+  },
+  {
+    "ref": "John 17:26",
+    "segments": [
+      {
+        "text": "And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them.",
+        "red": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>What Jesus Says About Love</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- W3.CSS -->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
+
+  <!-- Your CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- Header -->
+  <div class="w3-container w3-center w3-padding-32">
+    <h1 class="w3-text-white font-effect-fire" style="font-family: 'Sofia', sans-serif;">
+      What Jesus Says About Love
+    </h1>
+  </div>
+
+
+
+  <!-- Flip Card Container -->
+  <div class="main-card-container">
+
+    <div id="flipCard" class="flip-card w3-card-4 w3-round-xlarge">
+
+      <div class="flip-card-inner">
+
+        <!-- FRONT -->
+        <div class="flip-card-front">
+          <div class="flip-inner-content">
+            <div>
+              <div id="referenceTextFront" class="reference-text"></div>
+              <div id="verseTextFront" class="scripture-text"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- BACK -->
+        <div class="flip-card-back">
+          <div class="flip-inner-content">
+            <div>
+              <div id="referenceTextBack" class="reference-text"></div>
+              <div id="verseTextBack" class="scripture-text"></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+    <!-- Arrows ABOVE the card -->
+    <div class="nav w3-center">
+        <button onclick="previousVerse()">⬅</button>
+        <button onclick="nextVerse()">➡</button>
+      </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
