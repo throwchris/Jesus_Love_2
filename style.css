@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 200px;
+    padding-bottom: 175px;
   }
   
   /* Navigation arrows */
@@ -101,3 +101,4 @@ body {
     color: #ff3b3b;
 
   }
+
