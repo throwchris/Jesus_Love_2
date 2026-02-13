@@ -25,12 +25,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 175px;
+    padding-bottom: 200px;
   }
   
   /* Navigation arrows */
   .nav {
-    margin-bottom: 200px;
+    margin-bottom: 175px;
   }
   
   .nav button {
@@ -101,4 +101,5 @@ body {
     color: #ff3b3b;
 
   }
+
 
