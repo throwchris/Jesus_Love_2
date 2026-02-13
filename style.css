@@ -30,7 +30,7 @@ body {
   
   /* Navigation arrows */
   .nav {
-    margin-bottom: 250px;
+    margin-bottom: 200px;
   }
   
   .nav button {
@@ -99,4 +99,5 @@ body {
   /* Red letters */
   .red-letter {
     color: #ff3b3b;
+
   }
