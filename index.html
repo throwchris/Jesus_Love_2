@@ -24,14 +24,15 @@
 
 
 
-  <!-- Flip Card Container -->
-  <div class="main-card-container">
+ <!-- Main Section -->
+<div class="w3-container w3-center main-wrapper">
 
-    <div id="flipCard" class="flip-card w3-card-4 w3-round-xlarge">
-
+    <!-- Flip Card -->
+    <div id="flipCard"
+         class="flip-card w3-card-4 w3-round-xlarge w3-hover-shadow">
+  
       <div class="flip-card-inner">
-
-        <!-- FRONT -->
+  
         <div class="flip-card-front">
           <div class="flip-inner-content">
             <div>
@@ -40,8 +41,7 @@
             </div>
           </div>
         </div>
-
-        <!-- BACK -->
+  
         <div class="flip-card-back">
           <div class="flip-inner-content">
             <div>
@@ -50,15 +50,20 @@
             </div>
           </div>
         </div>
-
+  
       </div>
     </div>
+  
+    <!-- Arrows BELOW the card -->
+    <div class="arrow-nav w3-margin-top">
+      <button class="w3-button w3-black w3-round-large w3-large"
+              onclick="previousVerse()">⬅</button>
+  
+      <button class="w3-button w3-black w3-round-large w3-large w3-margin-left"
+              onclick="nextVerse()">➡</button>
+    </div>
+  
   </div>
-    <!-- Arrows ABOVE the card -->
-    <div class="nav w3-center">
-        <button onclick="previousVerse()">⬅</button>
-        <button onclick="nextVerse()">➡</button>
-      </div>
 
   <script src="script.js"></script>
 </body>
