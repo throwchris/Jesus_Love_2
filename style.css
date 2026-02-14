@@ -41,6 +41,7 @@ html, body {
     width: 90%;
     max-width: 700px;
     perspective: 1200px;
+    margin-bottom: 200px;  
   }
   
   .flip-card-inner {
@@ -126,3 +127,4 @@ html, body {
     transition: transform 0.8s ease;
     transform-style: preserve-3d;
   }
+
