@@ -28,10 +28,10 @@ html, body {
     min-height: 70vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
+    padding-top: 60px;
   }
-  
   
   /* ============================= */
   /* Flip Card */
@@ -127,4 +127,5 @@ html, body {
     transition: transform 0.8s ease;
     transform-style: preserve-3d;
   }
+
 
