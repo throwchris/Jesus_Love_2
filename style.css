@@ -1,57 +1,45 @@
-/* Background */
-body {
+/* ============================= */
+/* Background + Base Layout */
+/* ============================= */
+
+html, body {
+    height: 100%;
     margin: 0;
+  }
+  
+  body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     background-image: url('neon.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     color: white;
-  }
-  
-  /* Center layout */
-  html, body {
-    height: 100%;
-  }
-  
-  body {
     display: flex;
     flex-direction: column;
   }
   
-  /* Move card higher and centered */
-  .main-card-container {
+  
+  /* ============================= */
+  /* Main Center Layout */
+  /* ============================= */
+  
+  .main-wrapper {
     flex: 1;
+    min-height: 70vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-bottom: 200px;
   }
   
-  /* Navigation arrows */
-  .nav {
-    margin-bottom: 150px;
-  }
   
-  .nav button {
-    font-size: 24px;
-    padding: 8px 18px;
-    margin: 0 10px;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-    background-color: rgba(0,0,0,0.7);
-    color: white;
-  }
-  
-  .nav button:hover {
-    background-color: rgba(255,255,255,0.2);
-  }
-  
+  /* ============================= */
   /* Flip Card */
+  /* ============================= */
+  
   .flip-card {
-    width: 100%;
-    max-width: 400px;
+    width: 90%;
+    max-width: 700px;
     perspective: 1200px;
   }
   
@@ -72,8 +60,8 @@ body {
     width: 100%;
     backface-visibility: hidden;
     border-radius: 16px;
-    background: rgba(0,0,0,0.85);
-    padding: 20px;
+    background: rgba(0, 0, 0, 0.85);
+    padding: 25px;
     box-sizing: border-box;
   }
   
@@ -85,10 +73,15 @@ body {
     text-align: center;
   }
   
+  
+  /* ============================= */
+  /* Text Styling */
+  /* ============================= */
+  
   .reference-text {
     font-size: 28px;
     font-weight: bold;
-    margin-bottom: 12px;
+    margin-bottom: 15px;
   }
   
   .scripture-text {
@@ -99,8 +92,37 @@ body {
   /* Red letters */
   .red-letter {
     color: #ff3b3b;
-
+  }
+  
+  
+  /* ============================= */
+  /* Arrow Navigation */
+  /* ============================= */
+  
+  .arrow-nav {
+    margin-top: 25px;
+  }
+  
+  .arrow-nav button {
+    font-size: 26px;
+    padding: 10px 22px;
+    margin: 0 12px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    transition: 0.3s ease;
+  }
+  
+  .arrow-nav button:hover {
+    background-color: rgba(255, 255, 255, 0.25);
   }
 
-
-
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    min-height: 350px;   /* <-- THIS FIXES IT */
+    transition: transform 0.8s ease;
+    transform-style: preserve-3d;
+  }
